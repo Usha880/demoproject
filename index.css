@@ -1,0 +1,20 @@
+.heading{
+    font-size: 36px;
+    color: black ;
+    font-weight: bold;
+    font-family: "Helvetica Ne";
+
+}
+.btn{
+    
+
+    color : white;
+    background-color: red;
+    border-radius: 10px;
+    padding:10px;
+    font-size: 36px;
+    color: black ;
+    font-weight: bold;
+    font-family: "Helvetica Ne";
+
+}
